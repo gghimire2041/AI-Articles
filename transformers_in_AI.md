@@ -1,4 +1,5 @@
 # Transformers in AI: The Revolutionary Architecture That Changed Everything
+### - Govinda Ghimire
 
 ## Table of Contents
 1. [Introduction](#introduction)
