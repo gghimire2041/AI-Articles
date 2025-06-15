@@ -1,5 +1,5 @@
 
-# 🧠 Data Science & AI Chronicles by Govinda
+# 🧠 Data Science & AI Chronicles 
 
 Welcome to my curated collection of in-depth articles, tutorials, and thought pieces exploring the evolving landscape of **Data Science, Machine Learning, Generative AI, and everything in between**.
 
