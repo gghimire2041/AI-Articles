@@ -26,9 +26,9 @@ Welcome to **AI-Articles** – a curated repository of in-depth technical articl
 
 | Article | Description | Topics Covered |
 |---------|-------------|----------------|
-| **[Transformers in AI: The Complete Guide](./transformers-guide.md)** | Revolutionary architecture that changed everything | Attention Mechanism, BERT, GPT, Multi-Head Attention |
-| **[Data Science in 2025: Trends & Predictions](./data-science-2025.md)** | Future landscape of data science | MLOps, AutoML, Ethical AI, Edge Computing |
-| **[ReAct Agents: Reasoning + Acting](./react-agents.md)** | Next-generation AI agents that think and act | Chain-of-Thought, Tool Use, Planning |
+| **[Transformers in AI: The Complete Guide](./transformers_in_AI.md)** | Revolutionary architecture that changed everything | Attention Mechanism, BERT, GPT, Multi-Head Attention |
+| **[Data Science in 2025: Trends & Predictions](./survive_data_science_2025.md)** | Future landscape of data science | MLOps, AutoML, Ethical AI, Edge Computing |
+| **[ReAct Agents: Reasoning + Acting](./react_agents.md** | Next-generation AI agents that think and act | Chain-of-Thought, Tool Use, Planning |
 
 ### 🧠 Core Concepts
 
