@@ -48,37 +48,6 @@ Welcome to **AI-Articles** – a curated repository of in-depth technical articl
 - **[AI Ethics in Practice](./ai-ethics.md)** - Responsible AI development
 - **[Building RAG Systems](./rag-systems.md)** - Retrieval-Augmented Generation
 
-## 🗂️ Repository Structure
-
-```
-AI-Articles/
-├── README.md                    # You are here!
-├── CONTRIBUTING.md             # How to contribute
-├── LICENSE                     # MIT License
-├── 
-├── articles/                   # Main articles directory
-│   ├── fundamentals/          # Core AI/ML concepts
-│   ├── architectures/         # Model architectures
-│   ├── applications/          # Real-world use cases
-│   ├── tools-and-frameworks/  # Technical tools
-│   └── research-papers/       # Paper summaries & analysis
-│
-├── code-examples/             # Implementation examples
-│   ├── transformers/         # Transformer implementations
-│   ├── data-science/         # DS project examples
-│   └── agents/               # AI agent code
-│
-├── assets/                   # Images, diagrams, datasets
-│   ├── images/              # Article illustrations
-│   ├── diagrams/            # Technical diagrams
-│   └── datasets/            # Sample datasets
-│
-└── resources/               # Additional learning materials
-    ├── glossary.md         # AI/ML terminology
-    ├── reading-list.md     # Recommended papers & books
-    └── tools.md           # Useful tools and libraries
-```
-
 ## 🏷️ Topics Covered
 
 <details>
@@ -152,10 +121,10 @@ AI-Articles/
 
 ## 📊 Article Statistics
 
-- **Total Articles**: 25+
-- **Topics Covered**: 15+
-- **Code Examples**: 50+
-- **Last Updated**: December 2024
+- **Total Articles**: 4+
+- **Topics Covered**: 3+
+- **Code Examples**: 0+
+- **Last Updated**: June 2024
 - **Reading Time**: 2-15 minutes per article
 
 ## 🤝 Contributing
