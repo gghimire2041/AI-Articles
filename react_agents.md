@@ -1,5 +1,5 @@
 # ReAct Agents: Reasoning and Acting in Generative AI Applications
-### Govinda Ghimire
+### - Govinda Ghimire
 
 ## Introduction
 
