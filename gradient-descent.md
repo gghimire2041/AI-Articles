@@ -878,7 +878,3 @@ def monitor_gradients(gradients, parameter_names):
         elif grad_norm > 10:
             print(f"Warning: Very large gradients in {name} (exploding gradients?)")
 ```
-
-### Modern Perspectives and Research
-
-#### Adaptive Learning Rate Methods
