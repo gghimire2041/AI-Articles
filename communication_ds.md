@@ -138,6 +138,6 @@ In 2025, the best data scientists aren’t just technical—they’re **translat
 
 ---
 
-**Next Up**: [🎯 Surviving as a Data Scientist in 2025](surviving_data_science_in_2025.md)
+**Next Up**: [🎯 Surviving as a Data Scientist in 2025](https://github.com/gghimire2041/AI-Articles/blob/main/Data_science_2025.md)
 
 Want more? [⭐ Star the repo](https://github.com/gghimire2041) to support this project!
