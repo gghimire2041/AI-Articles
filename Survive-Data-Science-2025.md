@@ -10,7 +10,7 @@ The data science field is experiencing unprecedented transformation in 2025. Whi
 
 ```mermaid
 graph TD
-    A[Data Science in 2025] --> B[Opportunities]
+    A[DData Science in 2025] --> B[Opportunities]
     A --> C[Challenges]
     A --> D[Survival Strategies]
     
