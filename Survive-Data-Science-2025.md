@@ -36,7 +36,7 @@ graph TD
 The data science job market in 2025 presents a paradox of explosive growth alongside intense competition. About 21,000 new data science job openings are projected each year over the next decade, yet 59% of professionals identify a lack of data science expertise as a primary barrier to fully leveraging AI's potential.
 
 ```mermaid
-pie title DData Science Job Market Composition 2025
+pie title Data Science Job Market Composition 2025
     "Versatile Professionals (57%)" : 57
     "Domain Experts (38%)" : 38
     "Full-Stack Data Scientists (5%)" : 5
@@ -155,25 +155,33 @@ graph TD
 ### Soft Skills That Matter
 
 ```mermaid
-mindmap
-  root((Soft Skills
-  for Success))
-    Communication
-      Business Translation
-      Data Storytelling
-      Stakeholder Management
-    Problem Solving
-      Critical Thinking
-      Creative Analysis
-      Hypothesis Formation
-    Leadership
-      Project Management
-      Team Coordination
-      Mentoring Others
-    Adaptability
-      Continuous Learning
-      Technology Adoption
-      Change Management
+flowchart LR
+    A["Critical Soft Skills"] --> B["Communication"]
+    A --> C["Problem Solving"]
+    A --> D["Leadership"]
+    A --> E["Adaptability"]
+    
+    B --> B1["Business Translation"]
+    B --> B2["Data Storytelling"]
+    B --> B3["Stakeholder Management"]
+    
+    C --> C1["Critical Thinking"]
+    C --> C2["Creative Analysis"]
+    C --> C3["Hypothesis Formation"]
+    
+    D --> D1["Project Management"]
+    D --> D2["Team Coordination"]
+    D --> D3["Mentoring Others"]
+    
+    E --> E1["Continuous Learning"]
+    E --> E2["Technology Adoption"]
+    E --> E3["Change Management"]
+    
+    style A fill:#e3f2fd,stroke:#0277bd,stroke-width:3px
+    style B fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px
+    style C fill:#e8f5e8,stroke:#388e3c,stroke-width:2px
+    style D fill:#fff3e0,stroke:#f57c00,stroke-width:2px
+    style E fill:#fce4ec,stroke:#c2185b,stroke-width:2px
 ```
 
 ---
@@ -344,20 +352,27 @@ Organizations are adopting data mesh architectures and enhanced governance frame
 ### The T-Shaped Professional Model
 
 ```mermaid
-graph TD
-    A[T-Shaped Data Scientist] --> B[Broad Knowledge Base]
-    A --> C[Deep Specialization]
+flowchart TD
+    A["T-Shaped Data Scientist"] --> B["Broad Knowledge Base"]
+    A --> C["Deep Specialization"]
     
-    B --> B1[Statistics & Math]
-    B --> B2[Programming Basics]
-    B --> B3[Business Acumen]
-    B --> B4[Communication]
+    B --> B1["Statistics & Math"]
+    B --> B2["Programming Basics"]
+    B --> B3["Business Acumen"]
+    B --> B4["Communication"]
     
-    C --> C1[Choose Your Specialty]
-    C1 --> D1[NLP/GenAI Expert]
-    C1 --> D2[Computer Vision Specialist]
-    C1 --> D3[MLOps Engineer]
-    C1 --> D4[Domain Expert (Healthcare, Finance, etc.)]
+    C --> C1["Choose Your Specialty"]
+    C1 --> D1["NLP/GenAI Expert"]
+    C1 --> D2["Computer Vision Specialist"]
+    C1 --> D3["MLOps Engineer"]
+    C1 --> D4["Domain Expert<br/>(Healthcare, Finance, etc.)"]
+    
+    style A fill:#e1f5fe,stroke:#01579b,stroke-width:3px
+    style C1 fill:#fff3e0,stroke:#e65100,stroke-width:2px
+    style D1 fill:#f3e5f5,stroke:#4a148c,stroke-width:2px
+    style D2 fill:#e8f5e8,stroke:#1b5e20,stroke-width:2px
+    style D3 fill:#fff8e1,stroke:#ff6f00,stroke-width:2px
+    style D4 fill:#fce4ec,stroke:#880e4f,stroke-width:2px
 ```
 
 ### Continuous Learning Framework
@@ -399,25 +414,33 @@ graph TD
 ### Building Your Professional Network
 
 ```mermaid
-mindmap
-  root((Professional
-  Network))
-    Industry Connections
-      Data Science Communities
-      LinkedIn Groups
-      Twitter/X Following
-    Academic Relationships
-      University Professors
-      Research Collaborators
-      PhD Networks
-    Business Stakeholders
-      Cross-functional Teams
-      Client Relationships
-      Executive Sponsors
-    Technical Community
-      Open Source Contributors
-      Conference Speakers
-      Tool Developers
+flowchart TD
+    A["Professional Network Strategy"] --> B["Industry Connections"]
+    A --> C["Academic Relationships"]
+    A --> D["Business Stakeholders"]
+    A --> E["Technical Community"]
+    
+    B --> B1["Data Science Communities"]
+    B --> B2["LinkedIn Groups"]
+    B --> B3["Twitter/X Following"]
+    
+    C --> C1["University Professors"]
+    C --> C2["Research Collaborators"]
+    C --> C3["PhD Networks"]
+    
+    D --> D1["Cross-functional Teams"]
+    D --> D2["Client Relationships"]
+    D --> D3["Executive Sponsors"]
+    
+    E --> E1["Open Source Contributors"]
+    E --> E2["Conference Speakers"]
+    E --> E3["Tool Developers"]
+    
+    style A fill:#e8eaf6,stroke:#3f51b5,stroke-width:3px
+    style B fill:#e1f5fe,stroke:#0288d1,stroke-width:2px
+    style C fill:#e8f5e8,stroke:#43a047,stroke-width:2px
+    style D fill:#fff3e0,stroke:#fb8c00,stroke-width:2px
+    style E fill:#fce4ec,stroke:#e91e63,stroke-width:2px
 ```
 
 ### Key Communities to Join:
