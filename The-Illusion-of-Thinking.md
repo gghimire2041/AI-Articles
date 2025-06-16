@@ -369,6 +369,8 @@ As Gary Marcus noted, if billion-dollar AI systems cannot reliably solve problem
 
 The "illusion of thinking" may not be in the models themselves, but in our interpretation of their capabilities and limitations.
 
+### - Govinda Ghimire
+
 ---
 
 **References:**
