@@ -36,7 +36,7 @@ graph TD
 The data science job market in 2025 presents a paradox of explosive growth alongside intense competition. About 21,000 new data science job openings are projected each year over the next decade, yet 59% of professionals identify a lack of data science expertise as a primary barrier to fully leveraging AI's potential.
 
 ```mermaid
-pie title Data Science Job Market Composition 2025
+pie title  Data Science Job Market Composition 2025
     "Versatile Professionals (57%)" : 57
     "Domain Experts (38%)" : 38
     "Full-Stack Data Scientists (5%)" : 5
