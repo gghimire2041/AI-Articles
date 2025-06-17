@@ -362,4 +362,4 @@ The question isn't whether you can afford to improve your communication skills. 
 
 ---
 
-**Author:** Govinda Ghimire, Senior Data Scientist, Walmart
+**Author:** Govinda Ghimire
